@@ -1,0 +1,60 @@
+{
+    "meta": {
+        "LastUpdated": "2022-02-08T15:19:51.266Z",
+        "TotalResults": 1909,
+        "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
+        "License": "https://www.openbanking.org.uk/open-licence",
+        "TermsOfUse": "https://www.openbanking.org.uk/terms"
+    },
+    "data": [
+        {
+            "Brand": [
+                {
+                    "BrandName": "Lloyds Bank",
+                    "ATM": [
+                        {
+                            "Identification": "LFFFBC11",
+                            "SupportedCurrencies": [
+                                "GBP"
+                            ],
+                            "Location": {
+                                "PostalAddress": {
+                                    "AddressLine": [
+                                        "1 VICTORIA ROAD;"
+                                    ],
+                                    "StreetName": "1 VICTORIA ROAD",
+                                    "TownName": "CONSETT",
+                                    "CountrySubDivision": [
+                                        "COUNTY DURHAM"
+                                    ],
+                                    "Country": "GB",
+                                    "PostCode": "DH8 5AE"
+                                }
+                            }
+                        },
+                        {
+                            "Identification": "L001AC11",
+                            "SupportedCurrencies": [
+                                "GBP"
+                            ],
+                            "Location": {
+                                "PostalAddress": {
+                                    "AddressLine": [
+                                        "91 OLD STREET;"
+                                    ],
+                                    "StreetName": "91 OLD STREET",
+                                    "TownName": "ASHTON UNDER LYNE",
+                                    "CountrySubDivision": [
+                                        "LANCASHIRE"
+                                    ],
+                                    "Country": "GB",
+                                    "PostCode": "OL6 7RU"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
